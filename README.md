@@ -1,7 +1,7 @@
 # TTM4100
 Kommunikasjon- tjenester og nett [summer 2017]
 
-Project contains a simple server and a client program
+Repository include assignments for this course. Such as: a simple server and a client program
 
 # Faglig innhold
 
